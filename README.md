@@ -1,1 +1,2 @@
 # Robot_Karel_Project
+  Karel is a programming model designed for beginners to develop algorithms using Java. And in this report, I will explore the report the task of programming Karel the Robot to divide a map into four equal chambers using      beepers. If dividing into four isn’t possible, the program ensures the map is divided into the largest possible number of equal chambers—three, two, or one. The algorithm also tracks and displays Karel’s movements in the    terminal, with Karel returning to its starting position at (1,1) after completing the task.
